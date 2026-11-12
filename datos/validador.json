@@ -1,0 +1,66 @@
+{
+  "$jsonSchema": {
+    "bsonType": "object",
+    "required": [
+      "NombreEstudiante",
+      "Cuatrimestre",
+      "NotaMatematicas",
+      "NotaCiencias",
+      "NotaLiteratura",
+      "NotaCivica",
+      "Condicion"
+    ],
+    "properties": {
+      "NombreEstudiante": {
+        "bsonType": "string",
+        "pattern": "^[A-Za-zÁÉÍÓÚáéíóúÑñÜü]+( [A-Za-zÁÉÍÓÚáéíóúÑñÜü]+){3}$",
+        "description": "Dos nombres y dos apellidos, solo letras"
+      },
+      "Cuatrimestre": {
+        "bsonType": "int",
+        "minimum": 1,
+        "description": "Solo números naturales"
+      },
+      "NotaMatematicas": {
+        "bsonType": [
+          "double",
+          "int"
+        ],
+        "minimum": 0,
+        "maximum": 100
+      },
+      "NotaCiencias": {
+        "bsonType": [
+          "double",
+          "int"
+        ],
+        "minimum": 0,
+        "maximum": 100
+      },
+      "NotaLiteratura": {
+        "bsonType": [
+          "double",
+          "int"
+        ],
+        "minimum": 0,
+        "maximum": 100
+      },
+      "NotaCivica": {
+        "bsonType": [
+          "double",
+          "int"
+        ],
+        "minimum": 0,
+        "maximum": 100
+      },
+      "Condicion": {
+        "bsonType": "string",
+        "enum": [
+          "Aprobado",
+          "Ampliación",
+          "Reprobado"
+        ]
+      }
+    }
+  }
+}

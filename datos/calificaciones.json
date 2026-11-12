@@ -1,0 +1,272 @@
+[
+  {
+    "NombreEstudiante": "Gustavo Adolfo Vargas Solano",
+    "Cuatrimestre": 1,
+    "NotaMatematicas": 95.5,
+    "NotaCiencias": 92.25,
+    "NotaLiteratura": 97.5,
+    "NotaCivica": 94.75,
+    "Condicion": "Aprobado"
+  },
+  {
+    "NombreEstudiante": "Gustavo Adolfo Vargas Solano",
+    "Cuatrimestre": 2,
+    "NotaMatematicas": 91.5,
+    "NotaCiencias": 88.5,
+    "NotaLiteratura": 93.25,
+    "NotaCivica": 90.75,
+    "Condicion": "Aprobado"
+  },
+  {
+    "NombreEstudiante": "Gustavo Adolfo Vargas Solano",
+    "Cuatrimestre": 3,
+    "NotaMatematicas": 96.25,
+    "NotaCiencias": 94.5,
+    "NotaLiteratura": 91.75,
+    "NotaCivica": 98.5,
+    "Condicion": "Aprobado"
+  },
+  {
+    "NombreEstudiante": "Gustavo Adolfo Mora Castro",
+    "Cuatrimestre": 1,
+    "NotaMatematicas": 78.5,
+    "NotaCiencias": 72.25,
+    "NotaLiteratura": 81.5,
+    "NotaCivica": 75.75,
+    "Condicion": "Aprobado"
+  },
+  {
+    "NombreEstudiante": "Gustavo Adolfo Mora Castro",
+    "Cuatrimestre": 2,
+    "NotaMatematicas": 64.5,
+    "NotaCiencias": 61.25,
+    "NotaLiteratura": 70.5,
+    "NotaCivica": 66.75,
+    "Condicion": "Ampliación"
+  },
+  {
+    "NombreEstudiante": "Gustavo Adolfo Mora Castro",
+    "Cuatrimestre": 3,
+    "NotaMatematicas": 82.5,
+    "NotaCiencias": 79.25,
+    "NotaLiteratura": 85.5,
+    "NotaCivica": 80.75,
+    "Condicion": "Aprobado"
+  },
+  {
+    "NombreEstudiante": "Daniela Paola Rojas Quesada",
+    "Cuatrimestre": 1,
+    "NotaMatematicas": 88.5,
+    "NotaCiencias": 91.25,
+    "NotaLiteratura": 86.5,
+    "NotaCivica": 93.75,
+    "Condicion": "Aprobado"
+  },
+  {
+    "NombreEstudiante": "Daniela Paola Rojas Quesada",
+    "Cuatrimestre": 2,
+    "NotaMatematicas": 94.5,
+    "NotaCiencias": 96.25,
+    "NotaLiteratura": 92.5,
+    "NotaCivica": 99.75,
+    "Condicion": "Aprobado"
+  },
+  {
+    "NombreEstudiante": "Daniela Paola Rojas Quesada",
+    "Cuatrimestre": 3,
+    "NotaMatematicas": 89.5,
+    "NotaCiencias": 90.25,
+    "NotaLiteratura": 95.5,
+    "NotaCivica": 92.75,
+    "Condicion": "Aprobado"
+  },
+  {
+    "NombreEstudiante": "Luis Fernando Salazar Alfaro",
+    "Cuatrimestre": 1,
+    "NotaMatematicas": 45.5,
+    "NotaCiencias": 52.25,
+    "NotaLiteratura": 58.5,
+    "NotaCivica": 49.75,
+    "Condicion": "Reprobado"
+  },
+  {
+    "NombreEstudiante": "Luis Fernando Salazar Alfaro",
+    "Cuatrimestre": 2,
+    "NotaMatematicas": 62.5,
+    "NotaCiencias": 66.25,
+    "NotaLiteratura": 60.5,
+    "NotaCivica": 68.75,
+    "Condicion": "Ampliación"
+  },
+  {
+    "NombreEstudiante": "Luis Fernando Salazar Alfaro",
+    "Cuatrimestre": 3,
+    "NotaMatematicas": 74.5,
+    "NotaCiencias": 71.25,
+    "NotaLiteratura": 77.5,
+    "NotaCivica": 70.75,
+    "Condicion": "Aprobado"
+  },
+  {
+    "NombreEstudiante": "Karla Vanessa Campos Herrera",
+    "Cuatrimestre": 1,
+    "NotaMatematicas": 65.5,
+    "NotaCiencias": 84.25,
+    "NotaLiteratura": 88.5,
+    "NotaCivica": 79.75,
+    "Condicion": "Aprobado"
+  },
+  {
+    "NombreEstudiante": "Karla Vanessa Campos Herrera",
+    "Cuatrimestre": 2,
+    "NotaMatematicas": 81.5,
+    "NotaCiencias": 77.25,
+    "NotaLiteratura": 90.5,
+    "NotaCivica": 83.75,
+    "Condicion": "Aprobado"
+  },
+  {
+    "NombreEstudiante": "Karla Vanessa Campos Herrera",
+    "Cuatrimestre": 3,
+    "NotaMatematicas": 86.5,
+    "NotaCiencias": 80.25,
+    "NotaLiteratura": 92.5,
+    "NotaCivica": 87.75,
+    "Condicion": "Aprobado"
+  },
+  {
+    "NombreEstudiante": "Marco Antonio Montero Chaves",
+    "Cuatrimestre": 1,
+    "NotaMatematicas": 71.5,
+    "NotaCiencias": 68.25,
+    "NotaLiteratura": 73.5,
+    "NotaCivica": 70.75,
+    "Condicion": "Aprobado"
+  },
+  {
+    "NombreEstudiante": "Marco Antonio Montero Chaves",
+    "Cuatrimestre": 2,
+    "NotaMatematicas": 55.5,
+    "NotaCiencias": 48.25,
+    "NotaLiteratura": 61.5,
+    "NotaCivica": 52.75,
+    "Condicion": "Reprobado"
+  },
+  {
+    "NombreEstudiante": "Marco Antonio Montero Chaves",
+    "Cuatrimestre": 3,
+    "NotaMatematicas": 39.5,
+    "NotaCiencias": 57.25,
+    "NotaLiteratura": 44.5,
+    "NotaCivica": 50.75,
+    "Condicion": "Reprobado"
+  },
+  {
+    "NombreEstudiante": "Laura Cristina Arias Brenes",
+    "Cuatrimestre": 1,
+    "NotaMatematicas": 83.5,
+    "NotaCiencias": 86.25,
+    "NotaLiteratura": 80.5,
+    "NotaCivica": 88.75,
+    "Condicion": "Aprobado"
+  },
+  {
+    "NombreEstudiante": "Laura Cristina Arias Brenes",
+    "Cuatrimestre": 2,
+    "NotaMatematicas": 85.5,
+    "NotaCiencias": 82.25,
+    "NotaLiteratura": 87.5,
+    "NotaCivica": 84.75,
+    "Condicion": "Aprobado"
+  },
+  {
+    "NombreEstudiante": "Laura Cristina Arias Brenes",
+    "Cuatrimestre": 3,
+    "NotaMatematicas": 90.5,
+    "NotaCiencias": 87.25,
+    "NotaLiteratura": 84.5,
+    "NotaCivica": 89.75,
+    "Condicion": "Aprobado"
+  },
+  {
+    "NombreEstudiante": "Pablo Esteban Calvo Cordero",
+    "Cuatrimestre": 1,
+    "NotaMatematicas": 63.5,
+    "NotaCiencias": 67.25,
+    "NotaLiteratura": 69.5,
+    "NotaCivica": 61.75,
+    "Condicion": "Ampliación"
+  },
+  {
+    "NombreEstudiante": "Pablo Esteban Calvo Cordero",
+    "Cuatrimestre": 2,
+    "NotaMatematicas": 51.5,
+    "NotaCiencias": 58.25,
+    "NotaLiteratura": 47.5,
+    "NotaCivica": 59.75,
+    "Condicion": "Reprobado"
+  },
+  {
+    "NombreEstudiante": "Pablo Esteban Calvo Cordero",
+    "Cuatrimestre": 3,
+    "NotaMatematicas": 76.5,
+    "NotaCiencias": 73.25,
+    "NotaLiteratura": 79.5,
+    "NotaCivica": 72.75,
+    "Condicion": "Aprobado"
+  },
+  {
+    "NombreEstudiante": "Mariana Isabel Fonseca Madrigal",
+    "Cuatrimestre": 1,
+    "NotaMatematicas": 97.5,
+    "NotaCiencias": 95.25,
+    "NotaLiteratura": 99.5,
+    "NotaCivica": 96.75,
+    "Condicion": "Aprobado"
+  },
+  {
+    "NombreEstudiante": "Mariana Isabel Fonseca Madrigal",
+    "Cuatrimestre": 2,
+    "NotaMatematicas": 93.5,
+    "NotaCiencias": 98.25,
+    "NotaLiteratura": 94.5,
+    "NotaCivica": 91.75,
+    "Condicion": "Aprobado"
+  },
+  {
+    "NombreEstudiante": "Mariana Isabel Fonseca Madrigal",
+    "Cuatrimestre": 3,
+    "NotaMatematicas": 92.5,
+    "NotaCiencias": 96.25,
+    "NotaLiteratura": 90.5,
+    "NotaCivica": 99.75,
+    "Condicion": "Aprobado"
+  },
+  {
+    "NombreEstudiante": "Kevin Andrey Navarro Segura",
+    "Cuatrimestre": 1,
+    "NotaMatematicas": 58.5,
+    "NotaCiencias": 49.25,
+    "NotaLiteratura": 55.5,
+    "NotaCivica": 62.75,
+    "Condicion": "Reprobado"
+  },
+  {
+    "NombreEstudiante": "Kevin Andrey Navarro Segura",
+    "Cuatrimestre": 2,
+    "NotaMatematicas": 66.5,
+    "NotaCiencias": 63.25,
+    "NotaLiteratura": 69.5,
+    "NotaCivica": 60.75,
+    "Condicion": "Ampliación"
+  },
+  {
+    "NombreEstudiante": "Kevin Andrey Navarro Segura",
+    "Cuatrimestre": 3,
+    "NotaMatematicas": 41.5,
+    "NotaCiencias": 53.25,
+    "NotaLiteratura": 59.5,
+    "NotaCivica": 46.75,
+    "Condicion": "Reprobado"
+  }
+]
